@@ -1,1 +1,3 @@
 welcome come to devops
+
+I am powershell scripter wants to learn devops
